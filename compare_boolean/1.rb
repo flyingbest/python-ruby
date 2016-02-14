@@ -1,3 +1,6 @@
+a=1
+b=2
+puts(a==b)
 puts(1==1)
 puts(1==2)
 puts(1>2)
